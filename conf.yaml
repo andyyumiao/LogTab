@@ -1,0 +1,21 @@
+[default]
+des= clear logs
+version = 1.0
+
+#[logs]
+#f2=/data0/magpie/servers/80_t.m.bdp.jd.com.tomcat/logs/catalina.log.*
+#f3=/data0/magpie/servers/80_t.m.bdp.jd.com.tomcat/logs/localhost.log.*
+#f5=/data0/magpie/servers/9090_m.data.tomcat/logs/catalina.log.*
+#f6=/data0/magpie/servers/9090_m.data.tomcat/logs/localhost.log.*
+
+[fp]
+fp1=E:\golang-work\src\LogTab
+fp2=E:\golang-work\src\LogTab
+
+[logs]
+f2=catalina.log.
+f3=localhost.log.
+
+[trigger]
+interval=3
+unit=second
