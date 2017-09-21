@@ -1,5 +1,5 @@
 # LogTab
 a simple clear logs tool base on golang
 
-#first step
+# First Step
 compile & run CronTab.go
